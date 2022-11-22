@@ -10,6 +10,15 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="166,122,0,0" VerticalAlignment="Top" Width="75"/>
         <Button Content="Button" HorizontalAlignment="Left" Margin="543,130,0,0" VerticalAlignment="Top" Width="75"/>
         <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="425,260,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="383,148,0,0" VerticalAlignment="Top"/>
+        <ListBox HorizontalAlignment="Left" Height="100" Margin="457,184,0,0" VerticalAlignment="Top" Width="100">
+            <CheckBox Content="CheckBox"/>
+        </ListBox>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="267,135,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <DataGrid HorizontalAlignment="Left" Height="100" Margin="307,96,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="435,87,0,0" VerticalAlignment="Top"/>
+        <StackPanel HorizontalAlignment="Left" Height="100" Margin="421,213,0,0" VerticalAlignment="Top" Width="100"/>
+        <WebBrowser HorizontalAlignment="Left" Height="100" Margin="311,205,0,0" VerticalAlignment="Top" Width="100"/>
 
     </Grid>
 </Window>
